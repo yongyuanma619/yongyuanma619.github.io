@@ -1,0 +1,37 @@
+h1:nth-of-type(3) {
+    color: blue;
+}
+
+body {
+    background-color: grey;
+}
+
+#Para1 {
+    border: 4px solid purple;
+}
+
+strong {
+    text-transform: uppercase;
+}
+
+input[type="checkbox"]:checked+label {
+    text-decoration-line: line-through;
+    color: red;
+}
+
+ol {
+    text-decoration-line: underline;
+}
+
+#uppercase {
+    text-transform: uppercase;
+    text-decoration-line: underline;
+}
+
+a:visited {
+    color: black;
+}
+
+.hover:hover {
+    color: aqua;
+}

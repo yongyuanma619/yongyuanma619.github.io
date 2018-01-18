@@ -1,0 +1,59 @@
+    .TextBox {
+        border: 20px solid grey;
+        margin: 100px 100px;
+        padding: 0 25px;
+    }
+    
+    p {
+        font-size: 40px;
+        color: purple;
+    }
+    
+    span {
+        color: red;
+    }
+    
+    span:hover {
+        font-size: 50px;
+        color: orange;
+    }
+    
+    .P1 {
+        color: red;
+    }
+    
+    .P2 {
+        color: blue;
+    }
+    
+    h1 {
+        font-family: 'Joti One', cursive;
+        text-align: center;
+        color: brown;
+        font-weight: bolder;
+        font-size: 50px;
+        text-decoration-line: underline;
+    }
+    
+    h3 {
+        color: green;
+        font-family: 'Macondo', cursive;
+    }
+    
+    h3:nth-of-type(2) {
+        color: blue;
+        font-size: 25px;
+        font-family: 'Montserrat', sans-serif;
+        font-style: italic;
+    }
+    
+    h3:hover {
+        font-size: 30px;
+    }
+    
+    h3:nth-of-type(4) {
+        color: blue;
+        font-size: 25px;
+        font-family: 'Montserrat', sans-serif;
+        font-style: italic;
+    }
